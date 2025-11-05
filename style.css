@@ -1,0 +1,75 @@
+#Datos {
+    float: left;
+    margin-left: -200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-top: 35px;
+    text-align:center;
+    margin: left 30px; 
+    text-align: left;
+    padding-right: 2rem;
+    border-right: 2px  solid rgb(116, 116, 219);
+    border-top: 200rem;
+}
+
+header{
+    text-align:center;
+    padding: 1em 2em;
+    background-color: rgb(136, 138, 238);
+
+ 
+}
+#Contenido  {
+    font-size: 15px;
+    margin-top: 90px;
+    margin-left: 300px;
+    text-align: left;
+
+}
+
+#educacion {
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 300px;
+    text-align: left;
+
+}
+
+#contactos{
+     font-size: 15px;
+    margin-top: 30px;
+    margin-left:20px;
+    text-align: left;
+}
+
+header img{
+width:170px;
+height:170px;
+border:3px;
+margin-bottom:1em;
+float: left;
+}
+
+#Experiencia{
+    font-size: 15px;
+    margin-top: -230px;
+    margin-left: 300px;
+    text-align: left;
+}
+img {
+    width:400px;
+height:300px;
+border:3px;
+margin-bottom:1em;
+float: left;
+}
+
+#Cursos {
+    margin-top: 150px;
+    text-align: center;
+}
+.imagenes img{
+    margin-right: 50px;
+    width: 200px;
+    border-radius:10px;
+}
